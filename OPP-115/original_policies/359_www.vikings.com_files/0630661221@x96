@@ -1,3 +1,0 @@
-/* B3/LightningBolt_Container_Data_Default - LightningBolt_Container_Data_Default */
-try { lbLoad('0000', ' ', ''); }
-catch (e) { if (isInDebug) { console.log(e); } }

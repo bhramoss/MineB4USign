@@ -1,1 +1,0 @@
-try { MD._nt(false, ""); } catch(e) {}

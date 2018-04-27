@@ -1,1 +1,0 @@
-(rn_f=function(){document.getElementById('chatfooter_container').className+=' lids';})();

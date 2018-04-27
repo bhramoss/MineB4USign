@@ -1,1 +1,0 @@
-document.write('<div id="adsense" style="visibility: hidden;height: 0px;">advertisement</div>');
